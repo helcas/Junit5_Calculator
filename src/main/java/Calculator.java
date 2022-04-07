@@ -24,7 +24,7 @@ public class Calculator {
                 System.out.println(num1 + " * " + num2 + " = " + calc.multiply(num1, num2));
                 break;
             case '/':
-                System.out.println(num1 + " * " + num2 + " = " + calc.divide(num1, num2));
+                System.out.println(num1 + " / " + num2 + " = " + calc.divide(num1, num2));
                 break;
             default:
         }
